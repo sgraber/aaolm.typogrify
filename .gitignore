@@ -1,0 +1,24 @@
+# Ignore these files for commits
+*.pyc
+.eprj
+*.bak
+*.o
+*.lo
+*.la
+*.al
+.libs
+*.so
+*.so.[0-9]*
+*.a
+*.pyo
+*.rej
+*~
+#*#
+.#*
+.*.swp
+.DS_Store
+*.egg-info
+setup.cfg
+paste-1.7.5.1-py2.6.egg/ 
+pastedeploy-1.3.4-py2.6.egg/ 
+pastescript-1.7.3-py2.6.egg/
